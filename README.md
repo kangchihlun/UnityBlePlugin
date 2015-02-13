@@ -12,7 +12,7 @@ which scan any of service/characteristic of your ble device.
 Hardware can be bought here
 http://www.ti.com/tool/cc2540dk
 
-or you can just by Mi bracelet(小米手環) and control it directly.
+or you can just buy Mi bracelet(小米手環) and control it directly.
 
 Project Feature : 
   Get notify from ble accelerometer make the girl's head turn.
